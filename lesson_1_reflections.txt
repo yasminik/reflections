@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    viewing a diff between two versions help me spot the bug easily, 
+	otherwise going back and fort between files would becaome difficult 
+	and open to error, especially for big files. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    having easy access to the entire history of a file make me efficient programmer
+    because if I can access the entire history easily I can try more things in my 
+    code and if those don't work I can easiyl find the old working versions and 
+    continue to working from that version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    manually choosing when to commit is better because othervise you can have a file 
+    with half function or something like that instead of full module change, also with 
+    automatic save you will have many versions and choosing the right one when 
+    needed would be difficult 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+		
+	saving multiple files is a useful thing because othervise spotting the working
+	 file combinations would be difficult and time consuming.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use git log to see my code files history bey typing git log in the directory
+    and I can use git diif to see my code file disserences by typing git diff and giving 
+    two commit ids as an argument
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    it makes me more confident to make changes because in this case I can go back and 
+    find where I did wrong and correct iit
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use it to fork some code from the internet
+
+
+    
+
+
