@@ -3,3 +3,5 @@ When would you want to use a remote repository rather than keeping all your work
   
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   Because GitHub cannot know when the document ready for pull. It it is automatic files can be pulled in the middle of the changes which creates confusion / broken code etc.
+  
+
